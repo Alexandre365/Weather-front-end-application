@@ -25,7 +25,9 @@ Uma aplicação que exibe a previsão do tempo de cidades utilizando a API **Ope
 ## 📸 Screenshots
 
 ### Desktop
-<img src="public/Captura de tela 2023-03-15 201012.png" alt="Screenshot Desktop" width="600">
+<div align="center">
+  <img src="public/Captura de tela 2023-03-15 201012.png" alt="Screenshot Desktop" width="600">
+</div>
 
 ### Mobile
 <div align="center">
