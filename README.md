@@ -37,7 +37,7 @@ Uma aplicação que exibe a previsão do tempo de cidades utilizando a API **Ope
 
 ---
 
-## 💻 Web site: https://alexandre365.github.io/PokeDex-Your-Ultimate-Pokemon-Information-Hub/
+## 💻 Web site: https://alexandre365.github.io/Weather-front-end-application/
 
 ---
 
